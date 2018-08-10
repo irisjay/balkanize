@@ -1,7 +1,7 @@
 {
   "name": "balkans",
   "version": "0.0.0",
-  "description": "fragment your state",
+  "description": "demarcate your state",
   "main": "balkans.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
