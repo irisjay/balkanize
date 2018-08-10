@@ -1,0 +1,23 @@
+{
+  "name": "balkans",
+  "version": "0.0.0",
+  "description": "fragment your state",
+  "main": "balkans.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irisjay/balkans.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irisjay/balkans/issues"
+  },
+  "homepage": "https://github.com/irisjay/balkans#readme",
+  "dependencies": {
+    "sanctuary": "^0.14.1",
+    "sanctuary-def": "^0.17.1"
+  }
+}
